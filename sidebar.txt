@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mry:home|Door43 (mry)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mry|d43-mry repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mry/archive/master.zip|d43-mry.zip]]
+
+**Recent Changes**
+{{changes>ns = mry}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mry|Ethnologue data]]
+
